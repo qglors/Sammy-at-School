@@ -1,0 +1,11 @@
+{
+	"folders": [
+		{
+			"path": "../opencv2.framework"
+		},
+		{
+			"path": "../yolov9"
+		}
+	],
+	"settings": {}
+}
